@@ -16,5 +16,17 @@ Here are some ideas to get you started:
  
 -->
 
- <img src="https://img.shields.io/badge/javascript-FF61F6?style=for-the-badge&logo=#javascript &logoColor=black">
- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-FF61F6?style=for-the-badge&logo=#JavaScript &logoColor=black">
+
+ <img src="https://img.shields.io/badge/JQuery-FF61F6?style=for-the-badge&logo=#JQuery &logoColor=black">
+ 
+   <img src="https://img.shields.io/badge/MySQL-FF61F6?style=for-the-badge&logo=#MySQL &logoColor=black">
+    <img src="https://img.shields.io/badge/HTML5-FF61F6?style=for-the-badge&logo=#HTML5 &logoColor=black">
+    <img src="https://img.shields.io/badge/CSS3-FF61F6?style=for-the-badge&logo=#CSS3 &logoColor=black">
+    <img src="https://img.shields.io/badge/html5-FF61F6?style=for-the-badge&logo=#html5 &logoColor=black">
+    <img src="https://img.shields.io/badge/html5-FF61F6?style=for-the-badge&logo=#html5 &logoColor=black">
+    <img src="https://img.shields.io/badge/html5-FF61F6?style=for-the-badge&logo=#html5 &logoColor=black">
+    <img src="https://img.shields.io/badge/html5-FF61F6?style=for-the-badge&logo=#html5 &logoColor=black">
+    <img src="https://img.shields.io/badge/html5-FF61F6?style=for-the-badge&logo=#html5 &logoColor=black">
+    
+    
