@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdmini99)](https://github.com/tmdmini99/github-readme-stats)
 
  <img src="https://img.shields.io/badge/JavaScript-FF61F6?style=for-the-badge&logo=#JavaScript &logoColor=black">
 
