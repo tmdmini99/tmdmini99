@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=tmdmini99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+![snake gif](https://github.com/tmdmini99/tmdmini99/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
