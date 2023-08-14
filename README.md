@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/tmdmini99/tmdmini99/blob/output/github-contribution-grid-snake.svg)
+
