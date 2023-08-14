@@ -28,4 +28,14 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=tmdmini99&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tmdmini99/tmdmini99/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
