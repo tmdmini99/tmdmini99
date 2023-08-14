@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
   <br>
   
- <img src="https://github.com/tmdmini99/tmdmini99/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/tmdmini99/tmdmini99/blob/output/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
 
