@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdmini99)](https://github.com/tmdmini99/github-readme-stats)
 
- <img src="https://img.shields.io/badge/JavaScript-FF61F6?style=for-the-badge&logo=#JavaScript &logoColor=black">
+
+  <img src="https://img.shields.io/badge/이름-색상이름?style=for-the-badge&logo=로고이름 &logoColor=white">
+
+ <img src="https://img.shields.io/badge/javascript-FF61F6?style=for-the-badge&logo=javascript &logoColor=black">
 
  <img src="https://img.shields.io/badge/JQuery-FF61F6?style=for-the-badge&logo=#JQuery &logoColor=black">
  
